@@ -1,1 +1,1 @@
-# stockers-hackathon
+# Stockers
